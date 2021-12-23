@@ -10,8 +10,8 @@
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Digesto Pesquisa e Banco de Dados**.
-- 🌱 Learning more about and studying: **Python, Elixir, Backend Development, Web Scrapping and K8s**.
+- 👨‍💻 I'm currently working full-time at **Digesto Pesquisa e Banco de Dados**
+- 🌱 Learning more about and studying: **Python, Elixir, Backend Development, Web Scrapping and K8s**
 - 💙 Interests: martial arts, cats and travel
 
 
