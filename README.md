@@ -1,19 +1,10 @@
 ## Stats
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfcaio&layout=compact&bg_color=ffffff00&text_color=718096"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=kfcaio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=stars&bg_color=ffffff00&text_color=718096"
-    />
-  </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfcaio&layout=compact&bg_color=ffffff00&text_color=718096&card_width=445" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kfcaio&count_private=true&show_icons=true&custom_title=Github%20Status&hide=stars&bg_color=ffffff00&text_color=718096" />
+</a>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
