@@ -11,8 +11,8 @@
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Digesto Pesquisa e Banco de Dados (a Jusbrasil company)**
-- 🌱 Learning more about and studying: **Python, Elixir, Backend Development, Web Scrapping and K8s**
-- 💙 Interests: martial arts, cats and travel
+- 🌱 Learning more about and studying: **Python, React, Elixir, Backend Development, Web Scrapping and K8s**
+- 💙 Interests: martial arts, law, cats and travel
 
 
 ### Find me around the web 🌎:
